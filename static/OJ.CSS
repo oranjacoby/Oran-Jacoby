@@ -24,47 +24,6 @@ h3 {
 
 }
 
-.PD {
-    height: 50px;
-    border: 3px solid;
-    padding-inline: 1px;
-}
-
-.education {
-    height: 50px;
-    border: 3px solid;
-    padding-inline: 1px;
-}
-
-.Repertoar {
-    height: 50px;
-    border: 3px solid;
-    padding-inline: 1px;
-}
-
-.specialties {
-    height: 50px;
-    border: 3px solid;
-    padding-inline: 1px;
-}
-
-
-.PD:hover {
-    background-color: grey;
-}
-
-.education:hover {
-    background-color: grey;
-}
-
-.Repertoar:hover {
-    background-color: grey;
-}
-
-.specialties:hover {
-    background-color: grey;
-}
-
 .contact {
     color: blue;
     margin-left: auto;
