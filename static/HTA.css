@@ -67,27 +67,6 @@ li,a {
 
  }
 
-#submitButton {
-    grid-area: center ;
-    color:  white;
-    font-size: larger;
-    background-color: rgb(83, 138, 168);
-    cursor: pointer;
-    border-radius: 49%;
-    border:none;
-    padding: 1%;
-    transition:all 0.3s ease 0s;
-
-}
-
-#submitButton:hover{
-    background-color:rgb(148, 207, 238);
-}
-
-#location{
-    font-size: x-large;
-}
-
  #footer {
     grid-area: footer;
     font-size: x-large;
