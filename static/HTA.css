@@ -115,3 +115,15 @@ p {
   }
 }
 
+ @media only screen and (max-width: 800px) {
+        .home-grid {
+            margin-right: 11vw;
+            grid-template-columns: 100%;
+            row-gap: 4vh;
+            grid-template-areas:
+			'TheHeader'
+			'Center'
+			'toContactDiv'
+			'TheFooterfooter';
+        }
+
